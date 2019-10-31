@@ -11,6 +11,9 @@ public class MagicGithubApplication extends Application {
 
     private UserRepository userRepository;
 
+    private UserRepository user;
+ 
+
     // ---
 
     public UserRepository getUserRepository() {
